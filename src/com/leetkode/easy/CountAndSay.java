@@ -1,7 +1,8 @@
-package come.leetkode.easy;
+package com.leetkode.easy;
 
 /*
- * LeetCode Count and Say Problem
+ * @author - Md Mojahidul Islam
+ * LeetCode # Count and Say # 38
  * Difficulty - Easy
  * 01/25/2020
  */
